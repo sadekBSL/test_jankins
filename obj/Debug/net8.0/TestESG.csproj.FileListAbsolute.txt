@@ -1,9 +1,3 @@
-C:\Users\Bouss\source\repos\TestESG\obj\Debug\net8.0\TestESG.csproj.AssemblyReference.cache
-C:\Users\Bouss\source\repos\TestESG\obj\Debug\net8.0\TestESG.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Bouss\source\repos\TestESG\obj\Debug\net8.0\TestESG.AssemblyInfoInputs.cache
-C:\Users\Bouss\source\repos\TestESG\obj\Debug\net8.0\TestESG.AssemblyInfo.cs
-C:\Users\Bouss\source\repos\TestESG\obj\Debug\net8.0\TestESG.csproj.CoreCompileInputs.cache
-C:\Users\Bouss\source\repos\TestESG\obj\Debug\net8.0\TestESG.sourcelink.json
 C:\Users\Bouss\source\repos\TestESG\bin\Debug\net8.0\testhost.dll
 C:\Users\Bouss\source\repos\TestESG\bin\Debug\net8.0\testhost.exe
 C:\Users\Bouss\source\repos\TestESG\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
@@ -100,6 +94,12 @@ C:\Users\Bouss\source\repos\TestESG\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStu
 C:\Users\Bouss\source\repos\TestESG\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\Bouss\source\repos\TestESG\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\Bouss\source\repos\TestESG\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Bouss\source\repos\TestESG\obj\Debug\net8.0\TestESG.csproj.AssemblyReference.cache
+C:\Users\Bouss\source\repos\TestESG\obj\Debug\net8.0\TestESG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bouss\source\repos\TestESG\obj\Debug\net8.0\TestESG.AssemblyInfoInputs.cache
+C:\Users\Bouss\source\repos\TestESG\obj\Debug\net8.0\TestESG.AssemblyInfo.cs
+C:\Users\Bouss\source\repos\TestESG\obj\Debug\net8.0\TestESG.csproj.CoreCompileInputs.cache
+C:\Users\Bouss\source\repos\TestESG\obj\Debug\net8.0\TestESG.sourcelink.json
 C:\Users\Bouss\source\repos\TestESG\obj\Debug\net8.0\TestESG.csproj.Up2Date
 C:\Users\Bouss\source\repos\TestESG\obj\Debug\net8.0\TestESG.dll
 C:\Users\Bouss\source\repos\TestESG\obj\Debug\net8.0\refint\TestESG.dll

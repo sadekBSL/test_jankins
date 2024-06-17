@@ -50,9 +50,9 @@ namespace TestESG // regrouper des classes
             newdriver.FindElement(By.XPath("//*[@id=\"edit-submitted-rgpd\"]/div/label")).Click();
             IWebElement element = newdriver.FindElement(By.XPath("//*[@id=\"webform-client-form-4653\"]/div/div[8]/input"));// 
             //javascript
-            js = (IJavaScriptExecutor)newdriver;
-            js.ExecuteScript("arguments[0].scrollIntoView(true);", element);
-            newdriver.FindElement(By.XPath("//*[@id=\"webform-client-form-4653\"]/div/div[8]/input")).Click();
+           // js = (IJavaScriptExecutor)newdriver;
+            //js.ExecuteScript("arguments[0].scrollIntoView(true);", element);
+            //newdriver.FindElement(By.XPath("//*[@id=\"webform-client-form-4653\"]/div/div[8]/input")).Click();
 
             //newdriver.FindElement(By.Id("input_2")).Submit();
 
