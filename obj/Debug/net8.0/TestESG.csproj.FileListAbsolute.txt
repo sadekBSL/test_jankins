@@ -9,6 +9,9 @@ C:\Users\Bouss\source\repos\TestESG\bin\Debug\net8.0\nunit.engine.dll
 C:\Users\Bouss\source\repos\TestESG\bin\Debug\net8.0\nunit.engine.api.dll
 C:\Users\Bouss\source\repos\TestESG\bin\Debug\net8.0\nunit.engine.core.dll
 C:\Users\Bouss\source\repos\TestESG\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\Users\Bouss\source\repos\TestESG\bin\Debug\net8.0\Client.cs
+C:\Users\Bouss\source\repos\TestESG\bin\Debug\net8.0\ReadData.cs
+C:\Users\Bouss\source\repos\TestESG\bin\Debug\net8.0\DATA.Json
 C:\Users\Bouss\source\repos\TestESG\bin\Debug\net8.0\TestESG.deps.json
 C:\Users\Bouss\source\repos\TestESG\bin\Debug\net8.0\TestESG.runtimeconfig.json
 C:\Users\Bouss\source\repos\TestESG\bin\Debug\net8.0\TestESG.dll
@@ -96,12 +99,10 @@ C:\Users\Bouss\source\repos\TestESG\obj\Debug\net8.0\TestESG.GeneratedMSBuildEdi
 C:\Users\Bouss\source\repos\TestESG\obj\Debug\net8.0\TestESG.AssemblyInfoInputs.cache
 C:\Users\Bouss\source\repos\TestESG\obj\Debug\net8.0\TestESG.AssemblyInfo.cs
 C:\Users\Bouss\source\repos\TestESG\obj\Debug\net8.0\TestESG.csproj.CoreCompileInputs.cache
+C:\Users\Bouss\source\repos\TestESG\obj\Debug\net8.0\TestESG.sourcelink.json
 C:\Users\Bouss\source\repos\TestESG\obj\Debug\net8.0\TestESG.csproj.Up2Date
 C:\Users\Bouss\source\repos\TestESG\obj\Debug\net8.0\TestESG.dll
 C:\Users\Bouss\source\repos\TestESG\obj\Debug\net8.0\refint\TestESG.dll
 C:\Users\Bouss\source\repos\TestESG\obj\Debug\net8.0\TestESG.pdb
 C:\Users\Bouss\source\repos\TestESG\obj\Debug\net8.0\TestESG.genruntimeconfig.cache
 C:\Users\Bouss\source\repos\TestESG\obj\Debug\net8.0\ref\TestESG.dll
-C:\Users\Bouss\source\repos\TestESG\bin\Debug\net8.0\Client.cs
-C:\Users\Bouss\source\repos\TestESG\bin\Debug\net8.0\ReadData.cs
-C:\Users\Bouss\source\repos\TestESG\bin\Debug\net8.0\DATA.Json

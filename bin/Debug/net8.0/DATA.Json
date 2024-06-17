@@ -1,13 +1,8 @@
 ﻿{
-    "Prefix": "Mr.",
+    
     "FirstName": "Leroy",
     "LastName": "Paul",
     "EmailAddress": "paul.leroy@example.com",
-    "PhoneNumber": "06 23 98 76 54",
-    "Prefix2": "Mss.",
-    "FirstName2": "Lemaire",
-    "LastName2": "Eric",
-    "EmailAddress2": "paul.leroy@example.com",
-    "PhoneNumber2": "06 23 98 76 54"
+    "PhoneNumber": "06 23 98 76 54"
   
 }
