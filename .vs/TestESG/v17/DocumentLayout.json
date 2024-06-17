@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bouss\\source\\repos\\TestESG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{279A46C8-C3D7-4E27-A856-5BF455BD90C9}|TestESG.csproj|c:\\users\\bouss\\source\\repos\\testesg\\cetelem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279A46C8-C3D7-4E27-A856-5BF455BD90C9}|TestESG.csproj|solutionrelative:cetelem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279A46C8-C3D7-4E27-A856-5BF455BD90C9}|TestESG.csproj|c:\\users\\bouss\\source\\repos\\testesg\\readdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279A46C8-C3D7-4E27-A856-5BF455BD90C9}|TestESG.csproj|solutionrelative:readdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279A46C8-C3D7-4E27-A856-5BF455BD90C9}|TestESG.csproj|c:\\users\\bouss\\source\\repos\\testesg\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{279A46C8-C3D7-4E27-A856-5BF455BD90C9}|TestESG.csproj|solutionrelative:data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279A46C8-C3D7-4E27-A856-5BF455BD90C9}|TestESG.csproj|c:\\users\\bouss\\source\\repos\\testesg\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279A46C8-C3D7-4E27-A856-5BF455BD90C9}|TestESG.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279A46C8-C3D7-4E27-A856-5BF455BD90C9}|TestESG.csproj|c:\\users\\bouss\\source\\repos\\testesg\\data.json||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{279A46C8-C3D7-4E27-A856-5BF455BD90C9}|TestESG.csproj|solutionrelative:data.json||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279A46C8-C3D7-4E27-A856-5BF455BD90C9}|TestESG.csproj|c:\\users\\bouss\\source\\repos\\testesg\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279A46C8-C3D7-4E27-A856-5BF455BD90C9}|TestESG.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DATA.Json",
+              "DocumentMoniker": "C:\\Users\\Bouss\\source\\repos\\TestESG\\DATA.Json",
+              "RelativeDocumentMoniker": "DATA.Json",
+              "ToolTip": "C:\\Users\\Bouss\\source\\repos\\TestESG\\DATA.Json",
+              "RelativeToolTip": "DATA.Json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-05T18:13:11.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cetelem.cs",
+              "DocumentMoniker": "C:\\Users\\Bouss\\source\\repos\\TestESG\\Cetelem.cs",
+              "RelativeDocumentMoniker": "Cetelem.cs",
+              "ToolTip": "C:\\Users\\Bouss\\source\\repos\\TestESG\\Cetelem.cs",
+              "RelativeToolTip": "Cetelem.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwC4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:43:57.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DATA.Json",
+              "DocumentMoniker": "C:\\Users\\Bouss\\source\\repos\\TestESG\\DATA.Json",
+              "RelativeDocumentMoniker": "DATA.Json",
+              "ToolTip": "C:\\Users\\Bouss\\source\\repos\\TestESG\\DATA.Json",
+              "RelativeToolTip": "DATA.Json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-05T18:06:57.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReadData.cs",
+              "DocumentMoniker": "C:\\Users\\Bouss\\source\\repos\\TestESG\\ReadData.cs",
+              "RelativeDocumentMoniker": "ReadData.cs",
+              "ToolTip": "C:\\Users\\Bouss\\source\\repos\\TestESG\\ReadData.cs",
+              "RelativeToolTip": "ReadData.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwBAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:44:53.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Bouss\\source\\repos\\TestESG\\Client.cs",
+              "RelativeDocumentMoniker": "Client.cs",
+              "ToolTip": "C:\\Users\\Bouss\\source\\repos\\TestESG\\Client.cs",
+              "RelativeToolTip": "Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:43:36.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Bouss\\source\\repos\\TestESG\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Bouss\\source\\repos\\TestESG\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTest1.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAcwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:30:19.151Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
